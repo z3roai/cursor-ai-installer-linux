@@ -22,7 +22,7 @@ A comprehensive, interactive bash script for installing Cursor AI on Linux syste
 
 1. **Download the installer**:
    ```bash
-   wget https://raw.githubusercontent.com/your-repo/install-cursor.sh/main/install-cursor.sh
+   wget https://raw.githubusercontent.com/cursor-ai-installer-linux/install-cursor.sh/main/install-cursor.sh
    ```
 
 2. **Make it executable**:
